@@ -1,1 +1,1 @@
-print(destiny is a cybersecurity analysis)
+print("destiny is a cybersecurity analysis")
