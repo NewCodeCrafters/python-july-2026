@@ -1,0 +1,1 @@
+print(destiny is a cybersecurity analysis)
