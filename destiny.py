@@ -32,7 +32,7 @@ print(type(has_permission))
 
 firt_name = "bello"
 lastName = "AbdulKaeem"
-sentence = "my name is" +firt_name +" "last_name
+sentence = "My name is" + firt_name + " " + last_name"
 print(sentence)
-sentence =f"my name is{firt_name} {last_name}"
+sentence =f"my name is {firt_name} {last_name}"
 print(sentence)
