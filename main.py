@@ -27,3 +27,4 @@ has_permission = False
 
 print(type(is_active))
 print(type(has_permission))
+
