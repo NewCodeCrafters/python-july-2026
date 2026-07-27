@@ -1,4 +1,4 @@
-# We can convert int to float, string, and boolean
+# We can convert int to fugyloat, string, and boolean
 # 42 can be "42" or 42.0 or True
 
 # We can convert strings to float, int, and boolean
