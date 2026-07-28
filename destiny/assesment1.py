@@ -1,0 +1,5 @@
+program = "python programming"
+print =  "PYTHON PROGAMMING"
+print = "Python Programming"
+print = "python programming"
+print ="Python Progamming"
