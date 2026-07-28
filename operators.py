@@ -5,7 +5,7 @@
 
 
 num1 = int(input("enter a number: "))
-operator = input("choose your operator: ")
+operator = input("choose your operator: ") 
 num2 = int(input('enter a number: '))
 
 
