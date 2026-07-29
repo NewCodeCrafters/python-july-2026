@@ -10,3 +10,4 @@ print(word[0:5])
 
 #EXERCISE 4
 print(word[:11:2])
+

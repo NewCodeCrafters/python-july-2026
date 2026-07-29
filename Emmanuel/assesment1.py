@@ -25,7 +25,7 @@ print(f"The area of the rectangle is: {area}")
 
 
 #XERCISE 3
-temp  = float(input("Enter the temperature in Celsius: "))
+temp  = float(input("Enter the temperature in Celsius: "))  
 
 fahrenheit = (temp * 9/5) + 32
 

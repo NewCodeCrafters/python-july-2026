@@ -5,29 +5,29 @@
 # It joins two or more strings together.
 
 # Store the first name in a variable
-first_name = "OlAmidE BeLLo"
+# first_name = "OlAmidE BeLLo"
 
 # Slicing: Extract characters from index 8 up to (but not including) index 13.
 # Index:  0123456789012
 # String: OlAmidE BeLLo
 # Output: "BeLLo"
-print(first_name[8:13])
-
-# Slicing with a step value.
+# print(first_name[8:13])
+# 
+# Slicing with a step value. 
 # Syntax: string[start:stop:step]
 # Start from the beginning, stop before index 8,
 # and take every 2nd character.
 # Output: "OAmd"
-print(first_name[:8:2])
-
+# print(first_name[:8:2])
+# 
 # Store the last name
-last_name = "Bello"
+# last_name = "Bello"
 
 # Reverse the string using slicing.
 # [::-1] means:
 # Start from the end, move backwards one character at a time.
 # Output: "olleB"
-print(last_name[::-1])
+# print(last_name[::-1])
 
 # Concatenate (join) strings together.
 # full_name = first_name + " " + last_name
