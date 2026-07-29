@@ -28,3 +28,30 @@ birthyear=2026-birthyear
 
 sentence=f"your name is {name} you are {yob} these numbers you picked {numbers} your birthyear is {birthyear}"
 print("sentence")
+
+
+def run_subtraction_calculator():
+    # loop until user enters correct numbers
+    while True:
+        # get inputs from user
+        first_num = input("Enter the starting number: ")
+        second_num = input("Enter the number to subtract: ")
+        
+        # check if inputs are numbers
+        if first_num.replace('.', '', 1).isdigit() and second_num.replace('.', '', 1).isdigit():
+            x = float(first_num)
+            y = float(second_num)
+            
+            # do subtraction
+            result = x - y
+            
+            # print answer
+            print("The difference when subtracting", y, "from", x, "is", result)
+            break  # stop the loop
+        else:
+            print("Error: Please enter only numbers")
+            print()
+
+
+# run the function
+run_subtraction_calculator()
