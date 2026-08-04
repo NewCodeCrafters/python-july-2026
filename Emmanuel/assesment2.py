@@ -1,21 +1,21 @@
-## Exercise 6 – Grade Checker Emmanuel
+# #Exercise 6 – Grade Checker Emmanuel
 
 # score = int(input("Enter your score here:"))
-# 
-# if score >= 70:
-    # print(f"A")
-# elif score >= 60 :
-    # print(f"B")
-# elif score >= 50:
-    # print(f"C")
-# elif score >= 45:
-    # print(F"D")
-# elif score >= 40:
-    # print(F"E")
-# elif score >= 0:
-    # print(F"F")
+
+# if score >= 70 and score <= 100:
+#     print(f"A")
+# elif score >= 60 and score < 69:
+#     print(f"B")
+# elif score >= 50 and score < 59:
+#     print(f"C")
+# elif score >= 45 and score < 49:
+#     print(F"D")
+# elif score >= 40 and score < 44:
+#     print(F"E")
+# elif score >= 0 and score < 39:
+#     print(F"F")
 # else:
-    # print(F"you got below the required score")    
+#     print(F"you got below the required score")    
 
 
 # Exercise 15 – Random Weather
@@ -54,14 +54,14 @@
 # else:
 #     print(f"within limit")
 
-#Exercise 26 – Exam Eligibility
+# Exercise 26 – Exam Eligibility
 
-attedance = int(input("Enter your attendance percentage:"))
+# attedance = int(input("Enter your attendance percentage:"))
 
-if attedance > 80:
-    print(f"Congratulationsn you are Eligible to write this exam")
-else:
-    print(f"you are not eligible to write this exam")
+# if attedance > 80:
+#     print(f"Congratulationsn you are Eligible to write this exam")
+# else:
+#     print(f"you are not eligible to write this exam")
 
 
 

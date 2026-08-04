@@ -10,21 +10,21 @@ words = [names, nums]
 
 # arbitrary, mutable, indexed and sliced, orderable
 
-names.remove(90)
-names.pop()
-names.pop()
-names.append("AbdulHakeem")
-names.extend(["Joseph", "Anne"])
-names.insert(0, "Gideon")
-print(names)
+# names.remove(90)
+# names.pop()
+# names.pop()
+# names.append("AbdulHakeem")
+# names.extend(["Joseph", "Anne"])
+# names.insert(0, "Gideon")
+# print(names)
 
-names = sorted(names)
+# names = sorted(names)
 
-print(names)
-names = sorted(names, reverse=True)
+# print(names)
+# names = sorted(names, reverse=True)
 
-print(names)
+# print(names)
 
-nums = [-1, 19, 25, True, 94, 0, False]
+# nums = [-1, 19, 25, True, 94, 0, False]
 
-print(sorted(nums))
+# print(sorted(nums))
