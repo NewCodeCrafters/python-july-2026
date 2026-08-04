@@ -3,5 +3,5 @@ result = sorted(nums)
 print(result)
 
 # remove the last element 
-nums.pops()
+nums.pop()
 print(nums)
