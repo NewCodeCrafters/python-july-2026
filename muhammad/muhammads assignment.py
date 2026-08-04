@@ -158,3 +158,30 @@ if numbers > numbers :
 else :
     print(f"smallest")
 
+<<<<<<< HEAD
+=======
+
+### Muhammed
+
+# 1. Given:
+
+#    ```python
+#    names = ["Uthman", "Emmanuel", "Muhammed", "Destiny", "Ayomide", "Maleek", 90, True, 192.12]
+#    nums = [13, 12, 92, 13, "Love", "Demon"]
+#    words = [names, nums]
+#    ```
+
+#    Write a statement to access the string `"Love"` using the `words` list.
+
+# 2. Write the code to sort the `names` list in reverse alphabetical order after removing all non-string values.
+
+names = ["Uthman", "Emmanuel", "Muhammed", "Destiny", "Ayomide", "Maleek", 90, True, 192.12]
+nums = [13, 12, 92, 13, "Love", "Demon"]
+words = [names, nums]
+print ("[1][4]")
+names.sorted("names[::-1]")
+print("names")
+names.remove(90)
+name.remove(192.12)
+name.remove("true")
+>>>>>>> 7f63dc04f050ec003d7dd0b6098ec275a81c62ad

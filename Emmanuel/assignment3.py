@@ -1,5 +1,5 @@
 names = ["Uthman", "Emmanuel", "Muhammed", "Destiny", "Ayomide", "Maleek",
-         90, True, 192.12]
+         90, True, 192.12] 
 
 names.insert(0,"Gideon")
 
