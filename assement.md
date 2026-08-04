@@ -73,14 +73,7 @@ Read the instructions carefully. Complete your assigned task individually. Do no
 ---
 
 ### Person 5: Rectangle Area Calculator
-* **Objective:** Create a program that calculates the area of a rectangle based on user-provided width and length.
-* **Requirements:**
-  1. Define a function named `run_area_calculator()`.
-  2. Prompt the user for width and length.
-  3. Catch non-numeric input using exception handling.
-  4. Ensure dimensions are positive numbers (if negative or zero, inform the user and prompt again).
-  5. Calculate area (`width * length`) and display: `The area of a rectangle with width X and length Y is Z`.
-  6. Exit the loop upon successful calculation.
+* **
 
 ---
 
