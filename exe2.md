@@ -145,7 +145,7 @@ Print:
 
 ---
 
-## Exercise 12 – Coin Toss
+## Exercise 12 – Coin Toss destiny
 
 Generate either:
 
