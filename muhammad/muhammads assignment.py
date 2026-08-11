@@ -182,3 +182,16 @@ print("names")
 names.remove(90)
 names.remove(192.12)
 names.remove(True)
+
+# 28. **Number Range**
+#     Ask the user for a starting number and an ending number. Use a `while` loop to print every number between them.
+
+starting_number=int(input("enter any starting number: "))
+ending_numbers=int(input("enter ending number: "))
+current =starting_number
+
+while current <= starting_number :
+    print (current)
+    current =current +1
+
+    
