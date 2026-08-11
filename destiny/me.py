@@ -1,11 +1,4 @@
-numbers = [12, 45, 7, 89, 23, 56]
-
-for numbers in range  (89):
-    if numbers >=89:
-     print(numbers)
-
-
-
-
-
-
+number = 2
+while number <= 20:
+    print(number)
+    number += 2
