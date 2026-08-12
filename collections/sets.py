@@ -1,6 +1,6 @@
-names = {"Muhammed", "Muhammed", "Emmanuel", "Ayomide", "Maleek", "Uthman", "Destiny", "Ayomide"}
+# names = {"Muhammed", "Muhammed", "Emmanuel", "Ayomide", "Maleek", "Uthman", "Destiny", "Ayomide"}
 
-print(names)
+# print(names)
 
 nums = {1, 24, -1, True, 0, False, 54, "", "Name"}
 

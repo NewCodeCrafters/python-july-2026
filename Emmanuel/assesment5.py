@@ -16,15 +16,8 @@ while True:
          else:
               print("You have run out of attempts")    
 
-while True:
-    number = int(input("Enter a positive number: "))
-    if number < 0:
-        print("Please enter a positive number.")
-        continue
-    else:
-        break
 
-    
+
 
 
 
