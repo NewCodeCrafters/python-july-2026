@@ -1,8 +1,8 @@
 #string
 name = "bello"
-first_name ='olamide' 
+firt_name ='olamide' 
 lastName = "13"
-DEPARTMENT = 'computer'
+DEPARTMENT ='computer'
 
 # Numeric Datatype
 
@@ -30,9 +30,9 @@ print(type(has_permission))
 
 #variables concatenation /chaning /linking
 
-first_name = "bello"
+firt_name = "bello"
 lastName = "AbdulKaeem"
-sentence = "My name is" + first_name + " " + last_name
+sentence = "My name is" + firt_name + " " + last_name"
 print(sentence)
-sentence =f"my name is {first_name} {last_name}"
+sentence =f"my name is {firt_name} {last_name}"
 print(sentence)
