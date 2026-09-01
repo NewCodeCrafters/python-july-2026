@@ -1,3 +1,5 @@
+# # Write a function that receives the price of an item and a discount percentage and returns the final price after discount.
+
 # def item_price (item, price,discounted_price, discount_percentage):
 #     item = input("Enter the item name: ")
 #     price = float(input("Enter the item price: "))
@@ -11,6 +13,8 @@
 
 # item_price("item", "price", "discounted_price", "discount_percentage")
 
+
+# # Write a function that receives a person’s age and returns the age category: Child, Teenager, Adult, or Senior.
 
 
 # def my_age (age):
@@ -26,19 +30,26 @@
 
 
 
-# Write a function that receives two numbers and returns both the quotient and remainder when the first is divided by the second.
+# # Write a function that receives two numbers and returns both the quotient and remainder when the first is divided by the second.
 
-def division(first_number, second_number, quotient, remainder):
-    first_number = int(input("Enter your first number: "))
-    second_number = int(input("Enter your second number: "))
+# def division(first_number, second_number, quotient, remainder):
+#     first_number = int(input("Enter your first number: "))
+#     second_number = int(input("Enter your second number: "))
 
-    quotient = first_number // second_number
-    remainder = first_number % second_number
+#     quotient = first_number // second_number
+#     remainder = first_number % second_number
 
-    print(quotient)
-    print(remainder)
+#     print(quotient)
+#     print(remainder)
 
-division("first_number", "second-number", "quotient", "remainder")
+# division("first_number", "second-number", "quotient", "remainder")
+
+
+# # Write a function that receives a sentence and returns the number of words in the sentence.
+
+# def sentence_receiver(sentence):
+#     sentence = input("Write a sentence: ")
+
 
 
 
