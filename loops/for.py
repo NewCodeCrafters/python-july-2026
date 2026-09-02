@@ -21,7 +21,7 @@ names = ["Uthman", "Emmanuel", "Muhammed", "Destiny", "Ayomide", "Maleek", "Just
 #         counts += 1
 #         vowel_list.append(i)
 #     else:
-#         continue
+#         continue    
 
 # print(f'There are {counts} vowels in {name}')
 
