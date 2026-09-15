@@ -137,24 +137,29 @@
 # print(count_even([2, 5, 8, 11, 14]))
 
 
-def check_type(date):
+# def check_type(date):
 
-    date=(10.5 ,"hello",[1, 2, 3])
-10.5
-"Hello"
-print(type( "date:"))
-print(type(10.5))   
-print(type("hello"))
-print(type([1, 2, 3]))
-
-
+#     date=(10.5 ,"hello",[1, 2, 3])
+# 10.5
+# "Hello"
+# print(type( "date:"))
+# print(type(10.5))   
+# print(type("hello"))
+# print(type([1, 2, 3]))
 
 
+# def student_pass(student):
+#     students = [
+#     ("John", 80),
+#     ("Mary", 65),
+#     ("David", 90),
+#     ("Sarah", 45)
+# ]
 
+#     for students in student:
+#         if students is >=50:
 
-
-
-
+open
 
 
 

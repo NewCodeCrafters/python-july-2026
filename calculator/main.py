@@ -11,3 +11,22 @@ def get_operations(num1:int, num2:int, operator:str):
         with open("/Users/user/dev/python-july-2026/calculator/history.txt", "a") as file:
                     file.write(f"{num1} - {num2} = {total}")
 
+<<<<<<< HEAD
+    
+    elif operator == "/":
+        total == divide_two_numbers(num1, num2)
+        with open("/Users/user/dev/python-july-2026/calculator/history.txt", "a") as file:
+            file.write(f"{num1} / {num2} = {total}")
+    
+
+
+    elif operator == "*":
+        total = multiply_two_numbers(num1, num2)
+        with open("/Users/user/dev/python-july-2026/calculator/history.txt", "a") as file:
+            file.write(f"{num1} * {num2} = {total}")
+    
+
+
+    
+=======
+>>>>>>> 01c4f4bff6d23ebde9d9be400ea7f76013bd3a88
